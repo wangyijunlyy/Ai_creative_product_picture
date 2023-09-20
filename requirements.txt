@@ -1,0 +1,6 @@
+xformers
+transformers 
+accelerate
+Pillow
+requests
+pandas
