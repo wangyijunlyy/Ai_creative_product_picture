@@ -9,8 +9,8 @@
 # 怎么运行  
  
 ```
-git  clone https://github.com/wangyijunlyy/AI_product_picture.git
-cd AI_product_picture
+git  clone https://github.com/wangyijunlyy/Ai_creative_product_picture.git
+cd Ai_creative_product_picture
 pip install -r requirements.txt
 python app.py
 ```
